@@ -25,3 +25,15 @@ Os usuários podem reservar quartos para as datas desejadas, fornecendo as segui
 
 ### 4. Sistema de Notificações
 A API inclui um sistema de notificações que informa os usuários sobre o status da reserva, check-in e check-out, com mensagens automáticas via e-mail.
+
+## Como Executar a API Localmente
+
+Para executar a API no seu ambiente local, siga os passos abaixo:
+
+1. **Clone o projeto**: Faça o clone deste repositório para sua máquina local
+
+2. **Importe o projeto**: Abra o projeto na IDE de sua preferência (como IntelliJ IDEA, Eclipse ou VS Code).
+
+3. **Suba a Api**: Execute a classe principal TriocupadoApplication para iniciar o servidor da API.
+
+4. **Utilize a collection do Postman**: Para facilitar o teste dos endpoints, importe a collection do Postman fornecida com o projeto. Esta coleção contém todas as requisições necessárias para interagir com a API
